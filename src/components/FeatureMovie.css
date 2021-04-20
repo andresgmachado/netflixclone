@@ -1,0 +1,14 @@
+.featured{
+    height: 90vh;
+    position: static;
+}
+.featured--vertical{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to top, #111 10%, transparent 90%);
+}
+.featured--horizontal{
+    width: inherit;
+    height: inherit;
+    background:linear-gradient(to right, #111, transparent);
+}
